@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "This is a presentation I gave at the El Paso Data Scientist. It covers the following\n\nI.) Background of R\n  i.) Brief history\n  ii.) Editors\nII.) Operators\n  i.) Logical\n  ii.) Mathematical\n  iii.) Assignment Operators\nII.) Why Use R\n  i.) Pros\n  ii.) Cons\nIII.) Getting Help\nIV.) Data Types\n  i.) numeric\n  ii.) integer\n  iii.) character\n  iv.) factor\n  v.) logical\nV.) Data Structures\n  i.) vectors\n  ii.) lists\n  iii.) data frames\n  iv.) matrices\nVI.) Functions\nVII.) Packages\n  i.) CRAN\n  ii.) tidyverse\nVIII.) Why Use R?    \n",
+    "created" : 1507429874242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "107681433",
+    "id" : "1089797F",
+    "lastKnownWriteTime" : 1508884758,
+    "last_content_update" : 1508884758655,
+    "path" : "C:/Users/JustinandAbigail/Desktop/Fun_Projects/Intro2R4EPDS/README.txt",
+    "project_path" : "README.txt",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
